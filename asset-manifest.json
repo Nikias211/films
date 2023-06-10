@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nikias211.github.io/films/npm/static/css/main.64ea2e6c.css",
+    "main.js": "/nikias211.github.io/films/npm/static/js/main.4c07a23a.js",
+    "static/media/pick.png": "/nikias211.github.io/films/npm/static/media/pick.70ac66a44a9b3620e193.png",
+    "index.html": "/nikias211.github.io/films/npm/index.html",
+    "main.64ea2e6c.css.map": "/nikias211.github.io/films/npm/static/css/main.64ea2e6c.css.map",
+    "main.4c07a23a.js.map": "/nikias211.github.io/films/npm/static/js/main.4c07a23a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ea2e6c.css",
+    "static/js/main.4c07a23a.js"
+  ]
+}
